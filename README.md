@@ -1,0 +1,2 @@
+# slovari
+slovar'
